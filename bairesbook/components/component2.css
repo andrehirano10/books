@@ -1,0 +1,8 @@
+.component2-container {
+  display: flex;
+  position: relative;
+}
+.component2-link {
+  text-decoration: none;
+  background-color: var(--dl-color-scheme-white);
+}

@@ -1,0 +1,7 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-navlink {
+  text-decoration: none;
+}

@@ -1,0 +1,13 @@
+.component3-container {
+  display: flex;
+  position: relative;
+}
+.component3-link {
+  padding-top: 12px;
+  margin-right: 0px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 12px;
+  text-decoration: none;
+  background-color: var(--dl-color-scheme-white);
+}
